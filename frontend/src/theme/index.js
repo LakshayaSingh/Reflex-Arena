@@ -7,7 +7,6 @@
 //   Or open presets/my-theme.js, make it your own, and import that.
 //   Save the file and the game in your browser updates instantly.
 // ================================================================
-
-import activeTheme from './presets/kitchen.js';
+import activeTheme from './presets/lakshaya.js';
 
 export default activeTheme;
