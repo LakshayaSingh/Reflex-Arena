@@ -17,7 +17,7 @@ npm run dev
 You'll see:
 
 ```
-  VITE v8.x  ready in 300 ms
+  VITE v6.x  ready in 300 ms
   ➜  Local:   http://localhost:5173/
 ```
 
